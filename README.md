@@ -1,6 +1,7 @@
 # Inventory - Production Management System
 
-Using simplex method in c++ to compute the optimal cost and monthly production of one product and 12 months period ( Tried many LP solver based on simplex method, do not work! Problem Occured: 1. cycling 2. Unbounded 3. Unknown Error)  based on the input demand, production cost, inventory cost and other type of cost.
+Using simplex method in c++ to compute the optimal cost and monthly production of one product and 12 months period 
+based on the input demand, production cost, inventory cost and other type of cost.
 
 
 ## Files
